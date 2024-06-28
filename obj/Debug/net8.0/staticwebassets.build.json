@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CpL+ZUb/i1ASKGOoBBKe6NLLF1d6dv2VhvtU9Ks8ZBs=",
+  "Source": "DynamicDashboardAspPostgres",
+  "BasePath": "_content/DynamicDashboardAspPostgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
